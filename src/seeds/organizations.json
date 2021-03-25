@@ -1,0 +1,124 @@
+[
+  {
+    "code": 1,
+    "name": "Misr El Kheir Foundation",
+    "locale": "en"
+  },
+  {
+    "code": 2,
+    "name": "Al Joud Foundation",
+    "locale": "en"
+  },
+  {
+    "code": 3,
+    "name": "57357 Children's Cancer Hospital Egypt",
+    "locale": "en"
+  },
+  {
+    "code": 4,
+    "name": "Baheya Foundation",
+    "locale": "en"
+  },
+  {
+    "code": 5,
+    "name": "Magdi Yacoub Heart Foundation",
+    "locale": "en"
+  },
+  {
+    "code": 6,
+    "name": "Egyptian Food Bank",
+    "locale": "en"
+  },
+  {
+    "code": 7,
+    "name": "Ahl Masr Burns Hospital",
+    "locale": "en"
+  },
+  {
+    "code": 8,
+    "name": "Resala Charity Organization",
+    "locale": "en"
+  },
+  {
+    "code": 9,
+    "name": "Nahr El Kher Project",
+    "locale": "en"
+  },
+  {
+    "code": 10,
+    "name": "Orman Charity Association",
+    "locale": "en"
+  },
+  {
+    "code": 11,
+    "name": "Life Makers (LMF)",
+    "locale": "en"
+  },
+  {
+    "code": 12,
+    "name": "Helm Foundation",
+    "locale": "en"
+  },
+
+
+  {
+    "code": 1,
+    "name": "مؤسسة مصر الخير",
+    "locale": "ar"
+  },
+  {
+    "code": 2,
+    "name": "مؤسسة الجود الخيرية",
+    "locale": "ar"
+  },
+  {
+    "code": 3,
+    "name": "57357 مؤسسة مستشفى سرطان الاطفال",
+    "locale": "ar"
+  },
+  {
+    "code": 4,
+    "name": "مؤسسة بهية",
+    "locale": "ar"
+  },
+  {
+    "code": 5,
+    "name": "مؤسسة مجدى يعقوب للقلب",
+    "locale": "ar"
+  },
+  {
+    "code": 6,
+    "name": "بنك الطعام المصري",
+    "locale": "ar"
+  },
+  {
+    "code": 7,
+    "name": "مؤسسة أهل مصر",
+    "locale": "ar"
+  },
+  {
+    "code": 8,
+    "name": "جمعية رسالة للاعمال الخيرية",
+    "locale": "ar"
+  },
+  {
+    "code": 9,
+    "name": "مشروع نهر الخير",
+    "locale": "ar"
+  },
+  {
+    "code": 10,
+    "name": "جمعية الأورمان",
+    "locale": "ar"
+  },
+  {
+    "code": 11,
+    "name": "مؤسسة صناع الحياة مصر",
+    "locale": "ar"
+  },
+  {
+    "code": 12,
+    "name": "مؤسسة حلم",
+    "locale": "ar"
+  }
+]

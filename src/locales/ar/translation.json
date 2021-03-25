@@ -1,0 +1,39 @@
+{
+  "init": "تم اعداد الترجمة بنجاح",
+  "errors": {
+    "11000": "هذا الـ{{key}} قيد الإستخدام بالفعل",
+    "500": "حدث خطأ ما",
+    "maxlength": "{{path}} يجب أن لا يزيد عن {{maxlength}} أحرف",
+    "minlength": "{{path}} يجب أن لا يقل عن {{minlength}} أحرف",
+    "regexp": "مطلوب {{path}} صالح",
+    "max": "{{path}} يجب أن لا تزيد عن {{max}}",
+    "min": "{{path}} يجب أن لا تنقص عن {{min}}",
+    "invalid": "{{path}} غير صحيح",
+    "invalid_auth": "البريد الالكتروني أو كلمة السر غير صحيحة",
+    "not_exist": "هذا الـ{{key}} غير موجود"
+  },
+  "attributes": {
+    "email": "البريد الإلكتروني",
+    "fullname": "الإسم الكامل",
+    "password": "كلمة السر",
+    "phoneNumber": "رقم التليفون",
+    "birthday": {
+      "day": "الأيام",
+      "month": "الشهور",
+      "year": "السنوات"
+    }
+  },
+  "home": {
+    "title": "معرض الكتب",
+    "total": "There are {{counter}} books in the list",
+    "buttonText": "Refresh button",
+    "buttonHTML": "<button onClick='window.location.reload();'>$t(buttonText)</button>"
+  },
+  "auth": {
+    "login": {
+      "errors": {
+        "activation": "لم يتم تفعيل الحساب"
+      }
+    }
+  }
+}

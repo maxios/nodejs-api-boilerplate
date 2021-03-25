@@ -1,0 +1,22 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": [
+    "transform-optional-chaining",
+    "@babel/plugin-transform-runtime",
+    ["module-resolver", {
+      "root": ["."],
+      "alias": {
+        "~root": ".",
+        "~src": "./src",
+        "@services": "./src/services",
+        "@models": "./src/models",
+        "@config": "./src/config",
+        "@controllers": "./src/controllers",
+        "@middlewares": "./src/middlewares",
+        "@routes": "./src/routes",
+        "@utils": "./src/utils",
+        "@validations": "./src/validations"
+      }
+    }]
+  ]
+}

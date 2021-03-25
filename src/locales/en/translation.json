@@ -1,0 +1,39 @@
+{
+  "init": "the i18n service started successfully",
+  "errors": {
+    "11000": "this {{key}} is already in use.",
+    "500": "Something went wrong",
+    "maxlength": "{{path}} should not be more than {{maxlength}} characters",
+    "minlength": "{{path}} should not be less than {{minlength}} characters",
+    "regexp": "valid {{path}} is required",
+    "max": "{{path}} should not exceed {{max}}",
+    "min": "{{path}} should not be less htan {{min}}",
+    "invalid": "invalid {{path}}",
+    "invalid_auth": "Invalid email or password",
+    "not_exist": "this {{key}} is not exist"
+  },
+  "attributes": {
+    "email": "email",
+    "fullname": "full name",
+    "password": "password",
+    "phoneNumber": "phone number",
+    "birthday": {
+      "day": "days",
+      "month": "months",
+      "year": "years"
+    }
+  },
+  "home": {
+    "title": "Book shop",
+    "total": "There are {{counter}} books in the list",
+    "buttonText": "Refresh button",
+    "buttonHTML": "<button onClick='window.location.reload();'>$t(buttonText)</button>"
+  },
+  "auth": {
+    "login": {
+      "errors": {
+        "activation": "User not activated"
+      }
+    }
+  }
+}
